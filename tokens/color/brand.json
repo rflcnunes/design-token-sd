@@ -61,6 +61,26 @@
       "dark": {
         "value": "#2D53D2"
       }
+    },
+    "quinary": {
+      "default": {
+        "value": "#202A44"
+      },
+      "light": {
+        "value": "#D2D4DA"
+      },
+      "iilight": {
+        "value": "#A6AAB4"
+      },
+      "iiilight": {
+        "value": "#797F8F"
+      },
+      "medium": {
+        "value": "#4D5569"
+      },
+      "dark": {
+        "value": "#101521"
+      }
     }
   }
 }
