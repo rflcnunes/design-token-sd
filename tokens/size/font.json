@@ -1,21 +1,41 @@
 {
-  "size": {
-    "font": {
-      "small" : {
-        "value": "0.75",
-        "comment": "the small size of the font"
+  "font": {
+    "size": {
+      "xxxxs": {
+        "value": "12px"
       },
-      "medium": {
-        "value": "1",
-        "comment": "the medium size of the font"
+      "xxxs": {
+        "value": "14px"
       },
-      "large" : {
-        "value": "2",
-        "comment": "the large size of the font"
+      "xxs": {
+        "value": "16px"
       },
-      "base"  : {
-        "value": "{size.font.medium.value}",
-        "comment": "the base size of the font"
+      "xs": {
+        "value": "18px"
+      },
+      "sm": {
+        "value": "20px"
+      },
+      "md": {
+        "value": "24px"
+      },
+      "lg": {
+        "value": "32px"
+      },
+      "xl": {
+        "value": "40px"
+      },
+      "xxl": {
+        "value": "48px"
+      },
+      "xxxl": {
+        "value": "64px"
+      },
+      "display": {
+        "value": "80px"
+      },
+      "giant": {
+        "value": "96px"
       }
     }
   }
