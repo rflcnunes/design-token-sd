@@ -2,20 +2,44 @@
   "brand": {
     "color": {
       "primary": {
-        "default": { "value": "#9B6AFA" },
-        "light": { "value": "#EBE1FE" },
-        "xxlight": { "value": "#D7C3FD" },
-        "xlight": { "value": "#C3A6FC" },
-        "medium": { "value": "#AF88FB" },
-        "dark": { "value": "#7B54C7" }
+        "default": {
+          "value": "#9B6AFA"
+        },
+        "light": {
+          "value": "#EBE1FE"
+        },
+        "xxlight": {
+          "value": "#D7C3FD"
+        },
+        "xlight": {
+          "value": "#C3A6FC"
+        },
+        "medium": {
+          "value": "#AF88FB"
+        },
+        "dark": {
+          "value": "#7B54C7"
+        }
       },
       "tertiary": {
-        "default": { "value": "#28D9EC" },
-        "light": { "value": "#D4F7FB" },
-        "xxlight": { "value": "#A9F0F7" },
-        "iiilight": { "value": "#7EE8F4" },
-        "medium": { "value": "#53E1F0" },
-        "dark": { "value": "#24ADBC" }
+        "default": {
+          "value": "#28D9EC"
+        },
+        "light": {
+          "value": "#D4F7FB"
+        },
+        "xxlight": {
+          "value": "#A9F0F7"
+        },
+        "iiilight": {
+          "value": "#7EE8F4"
+        },
+        "medium": {
+          "value": "#53E1F0"
+        },
+        "dark": {
+          "value": "#24ADBC"
+        }
       }
     }
   }
