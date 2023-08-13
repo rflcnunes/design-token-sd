@@ -41,6 +41,26 @@
           "value": "#24ADBC"
         }
       }
+    },
+    "quaternary": {
+      "default": {
+        "value": "#3D6AFF"
+      },
+      "light": {
+        "value": "#D8E1FF"
+      },
+      "iilight": {
+        "value": "#B1C3FF"
+      },
+      "iiilight": {
+        "value": "#8BA6FF"
+      },
+      "medium": {
+        "value": "#6488FF"
+      },
+      "dark": {
+        "value": "#2D53D2"
+      }
     }
   }
 }
