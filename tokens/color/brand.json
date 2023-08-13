@@ -1,0 +1,14 @@
+{
+  "brand": {
+    "color": {
+      "primary": {
+        "default": { "value": "#9B6AFA" },
+        "light": { "value": "#EBE1FE" },
+        "xxlight": { "value": "#D7C3FD" },
+        "xlight": { "value": "#C3A6FC" },
+        "medium": { "value": "#AF88FB" },
+        "dark": { "value": "#7B54C7" }
+      }
+    }
+  }
+}
