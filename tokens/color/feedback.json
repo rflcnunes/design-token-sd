@@ -1,0 +1,46 @@
+{
+  "feedback": {
+    "success": {
+      "default": {
+        "value": "#2EB376"
+      },
+      "light": {
+        "value": "#EAF8F2"
+      },
+      "medium": {
+        "value": "#58C291"
+      },
+      "dark": {
+        "value": "#017C44"
+      }
+    },
+    "warning": {
+      "default": {
+        "value": "#F39C12"
+      },
+      "light": {
+        "value": "#FEF5E8"
+      },
+      "medium": {
+        "value": "#F5B041"
+      },
+      "dark": {
+        "value": "#D38913"
+      }
+    },
+    "error": {
+      "default": {
+        "value": "#DD4B39"
+      },
+      "light": {
+        "value": "#FCEDEB"
+      },
+      "medium": {
+        "value": "#E46F61"
+      },
+      "dark": {
+        "value": "#BA4233"
+      }
+    }
+  }
+}
