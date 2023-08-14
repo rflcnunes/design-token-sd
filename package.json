@@ -2,14 +2,23 @@
   "name": "design-token-sd",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.scss",
+  "private": false,
   "scripts": {
+    "build:sass": "sass src/styles/index.scss dist/index.css --style compressed",
+    "compile:watch": "sass --watch index.scss dist/index.css index.css",
     "build": "style-dictionary build"
   },
+  "files": [
+    "index.scss",
+    "dist/*",
+    "build/*"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "sass": "^1.65.1",
     "style-dictionary": "^3.8.0"
   }
 }

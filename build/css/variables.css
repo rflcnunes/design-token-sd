@@ -1,0 +1,72 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 14 Aug 2023 02:30:34 GMT
+ */
+
+:root {
+  --color-base-gray-light: #cccccc;
+  --color-base-gray-medium: #999999;
+  --color-base-gray-dark: #111111;
+  --color-base-red: #ff0000;
+  --color-base-green: #00ff00;
+  --color-purple-100: #faf5ff;
+  --color-purple-200: #e9d8fd;
+  --color-purple-300: #d6bcfa;
+  --color-purple-400: #b794f4;
+  --color-purple-500: #9f7aea;
+  --color-purple-600: #805ad5;
+  --color-purple-700: #6b46c1;
+  --color-purple-800: #553c9a;
+  --color-purple-900: #44337a;
+  --color-font-base: #ff0000;
+  --color-font-secondary: #00ff00;
+  --color-font-tertiary: #cccccc;
+  --brand-color-primary-default: #9B6AFA;
+  --brand-color-primary-light: #EBE1FE;
+  --brand-color-primary-xxlight: #D7C3FD;
+  --brand-color-primary-xlight: #C3A6FC;
+  --brand-color-primary-medium: #AF88FB;
+  --brand-color-primary-dark: #7B54C7;
+  --brand-color-tertiary-default: #28D9EC;
+  --brand-color-tertiary-light: #D4F7FB;
+  --brand-color-tertiary-iilight: #A9F0F7;
+  --brand-color-tertiary-iiilight: #7EE8F4;
+  --brand-color-tertiary-medium: #53E1F0;
+  --brand-color-tertiary-dark: #24ADBC;
+  --brand-quaternary-default: #3D6AFF;
+  --brand-quaternary-light: #D8E1FF;
+  --brand-quaternary-iilight: #B1C3FF;
+  --brand-quaternary-iiilight: #8BA6FF;
+  --brand-quaternary-medium: #6488FF;
+  --brand-quaternary-dark: #2D53D2;
+  --brand-quinary-default: #202A44;
+  --brand-quinary-light: #D2D4DA;
+  --brand-quinary-iilight: #A6AAB4;
+  --brand-quinary-iiilight: #797F8F;
+  --brand-quinary-medium: #4D5569;
+  --brand-quinary-dark: #101521;
+  --feedback-success-default: #2EB376;
+  --feedback-success-light: #EAF8F2;
+  --feedback-success-medium: #58C291;
+  --feedback-success-dark: #017C44;
+  --feedback-warning-default: #F39C12;
+  --feedback-warning-light: #FEF5E8;
+  --feedback-warning-medium: #F5B041;
+  --feedback-warning-dark: #D38913;
+  --feedback-error-default: #DD4B39;
+  --feedback-error-light: #FCEDEB;
+  --feedback-error-medium: #E46F61;
+  --feedback-error-dark: #BA4233;
+  --font-size-xxxxs: 12px;
+  --font-size-xxxs: 14px;
+  --font-size-xxs: 16px;
+  --font-size-xs: 18px;
+  --font-size-sm: 20px;
+  --font-size-md: 24px;
+  --font-size-lg: 32px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 64px;
+  --font-size-display: 80px;
+  --font-size-giant: 96px;
+}
