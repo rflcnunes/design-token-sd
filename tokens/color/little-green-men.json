@@ -1,0 +1,44 @@
+{
+  "littleGreenMen": {
+    "alienGreen": {
+      "value": "#00FF00",
+      "type": "color"
+    },
+    "spaceGray": {
+      "value": "#696969",
+      "type": "color"
+    },
+    "galacticBlue": {
+      "value": "#0000CD",
+      "type": "color"
+    },
+    "eyesOnTheSkiesYellow": {
+      "value": "#FFFF99",
+      "type": "color"
+    },
+    "cuteCoral": {
+      "value": "#FF6B6B",
+      "type": "color"
+    },
+    "toyStoryGreen": {
+      "value": "#8CC63F",
+      "type": "color"
+    },
+    "ufoGray": {
+      "value": "#A9A9A9",
+      "type": "color"
+    },
+    "beamMeUpBlue": {
+      "value": "#4682B4",
+      "type": "color"
+    },
+    "playfulPurple": {
+      "value": "#9370DB",
+      "type": "color"
+    },
+    "starlightSilver": {
+      "value": "#C0C0C0",
+      "type": "color"
+    }
+  }
+}

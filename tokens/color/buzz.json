@@ -1,0 +1,44 @@
+{
+  "buzz": {
+    "spaceRangerGreen": {
+      "value": "#32CD32",
+      "type": "color"
+    },
+    "galacticPurple": {
+      "value": "#9400D3",
+      "type": "color"
+    },
+    "starshipWhite": {
+      "value": "#FFFFFF",
+      "type": "color"
+    },
+    "laserBeamBlue": {
+      "value": "#1E90FF",
+      "type": "color"
+    },
+    "toInfinityAndBeyondBlue": {
+      "value": "#00BFFF",
+      "type": "color"
+    },
+    "jetpackSilver": {
+      "value": "#C0C0C0",
+      "type": "color"
+    },
+    "buzzLightyearGreen": {
+      "value": "#00FF00",
+      "type": "color"
+    },
+    "astrovisorPurple": {
+      "value": "#8A2BE2",
+      "type": "color"
+    },
+    "alienGreen": {
+      "value": "#00FF7F",
+      "type": "color"
+    },
+    "commandModuleGray": {
+      "value": "#808080",
+      "type": "color"
+    }
+  }
+}

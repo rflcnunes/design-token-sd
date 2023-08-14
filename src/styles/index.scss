@@ -1,4 +1,5 @@
-@import '../../build/scss/_variables.scss';
+@import "../../build/scss/_variables.scss";
+@import "./barbie/index.scss";
 
 .text-primary {
   color: $brand-color-primary-default;

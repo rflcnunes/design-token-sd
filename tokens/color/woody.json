@@ -1,0 +1,44 @@
+{
+  "woody": {
+    "cowboyBrown": {
+      "value": "#8B4513",
+      "type": "color"
+    },
+    "sheriffsStarGold": {
+      "value": "#FFD700",
+      "type": "color"
+    },
+    "denimBlue": {
+      "value": "#1560BD",
+      "type": "color"
+    },
+    "sunsetOrange": {
+      "value": "#FFA500",
+      "type": "color"
+    },
+    "lassoRopeBeige": {
+      "value": "#D2B48C",
+      "type": "color"
+    },
+    "rusticRed": {
+      "value": "#B22222",
+      "type": "color"
+    },
+    "cactusGreen": {
+      "value": "#228B22",
+      "type": "color"
+    },
+    "toyBoxWood": {
+      "value": "#8FBC8F",
+      "type": "color"
+    },
+    "sunlitYellow": {
+      "value": "#F0E68C",
+      "type": "color"
+    },
+    "bandanaRed": {
+      "value": "#CD5C5C",
+      "type": "color"
+    }
+  }
+}

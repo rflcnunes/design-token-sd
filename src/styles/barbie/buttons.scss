@@ -1,0 +1,25 @@
+@import "../../../build/scss/_variables.scss";
+
+.barbie {
+  &-btn {
+    &-primary {
+      background-color: $barbie-bubblegum-pink;
+      color: $barbie-dreamy-lavender;
+
+      &:hover {
+        background-color: $barbie-dreamy-lavender;
+        color: $barbie-bubblegum-pink;
+      }
+
+      &:active {
+        background-color: $barbie-sparkling-silver;
+        color: $barbie-tropical-turquoise;
+      }
+
+      &:disabled {
+        background-color: $barbie-golden-blonde;
+        color: $barbie-dazzling-diamond;
+      }
+    }
+  }
+}

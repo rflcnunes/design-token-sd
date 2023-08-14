@@ -1,0 +1,44 @@
+{
+  "barbie": {
+    "bubblegumPink": {
+      "value": "#FF6EB4",
+      "type": "color"
+    },
+    "dreamyLavender": {
+      "value": "#D19FE8",
+      "type": "color"
+    },
+    "sparklingSilver": {
+      "value": "#C0C0C0",
+      "type": "color"
+    },
+    "tropicalTurquoise": {
+      "value": "#00CED1",
+      "type": "color"
+    },
+    "goldenBlonde": {
+      "value": "#FFD700",
+      "type": "color"
+    },
+    "dazzlingDiamond": {
+      "value": "#B9F2FF",
+      "type": "color"
+    },
+    "mintyGreen": {
+      "value": "#98FF98",
+      "type": "color"
+    },
+    "sunnyYellow": {
+      "value": "#FFFF99",
+      "type": "color"
+    },
+    "royalPurple": {
+      "value": "#8A2BE2",
+      "type": "color"
+    },
+    "glitteringGold": {
+      "value": "#FFD700",
+      "type": "color"
+    }
+  }
+}
