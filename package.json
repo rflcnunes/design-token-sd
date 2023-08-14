@@ -2,7 +2,7 @@
   "name": "design-token-sd",
   "version": "1.1.0",
   "description": "",
-  "main": "index.scss",
+  "main": "src/styles/index.scss",
   "private": false,
   "scripts": {
     "build:sass": "sass src/styles/index.scss dist/index.css --style compressed",
@@ -10,7 +10,7 @@
     "build": "style-dictionary build"
   },
   "files": [
-    "index.scss",
+    "src/styles/index.scss",
     "dist/*",
     "build/*"
   ],
